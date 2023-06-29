@@ -21,9 +21,9 @@
 const aboutMe = {
    pronouns: "he" | "him",
    code: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "AJAX", "Jquery", "ASP.Net", "Git" ],
+   studyCode: ["Typescript", "React Js", "Tailwind"],
    technologies: {
       frontEnd: {
-         js: ["React Js"],
          css: ["Bootstrap", "Ion-Icon"]
       },
       databases: ["mySQL", "SQLServer"],
