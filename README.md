@@ -20,7 +20,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "AJAX", "Jquery", "ASP.Net", "Git" ],
+   code: ["Javascript", "HTML", "CSS", "PHP", "AJAX", "Jquery", "ASP.Net", "Git" ],
    studyCode: ["Typescript", "React Js", "Tailwind"],
    technologies: {
       frontEnd: {
