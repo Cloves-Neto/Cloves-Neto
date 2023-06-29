@@ -4,6 +4,10 @@
 
 <br>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Cloves-Neto&show_icons=true&count_private=true&hide_border=false&border_color=700ABF&title_color=700ABF&icon_color=700ABF&text_color=700ABF&bg_color=fff" alt="Cloves Neto github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloves-Neto&layout=compact&hide_border=false&border_color=700ABF&title_color=700ABF&text_color=700ABF&bg_color=fff" />
@@ -21,7 +25,7 @@ const aboutMe = {
       frontEnd: {
          css: ["Bootstrap", "Ion-Icon"]
       },
-      databases: ["mySQL", "SQLServer"],
+      databases: ["mySQL", "SQL lite"],
    },
    tools: ["VsCode", "Figma", "Photoshop", "Ilustrator", "Office", "Github"],
    currentOccupation: ["last year student, open for job opportunities"],
@@ -33,6 +37,8 @@ const aboutMe = {
  </div>
 
  <br>
+
+⭐️ From [Cloves Neto](https://github.com/cloves-neto)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=832bf1&height=120&section=footer"/>
