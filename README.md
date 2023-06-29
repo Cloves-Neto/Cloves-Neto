@@ -10,12 +10,7 @@
 </div>
 
 <br>
-
-<div align="center"> 
-<a href="https://instagram.com/devneto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="www.linkedin.com/in/cloves-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-
+<br>
 
 ```javascript
 const aboutMe = {
@@ -32,13 +27,12 @@ const aboutMe = {
    currentOccupation: ["last year student, open for job opportunities"],
 };
 ```
+<div align="center"> 
+<a href="https://instagram.com/devneto_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.linkedin.com/in/cloves-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cloves-Neto}/count.svg" /></p> 
-<br>
-</div>
+ <br>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=832bf1&height=120&section=footer"/>
