@@ -17,14 +17,21 @@
  </div>
 
 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
-
-
-### Studying in this moment:
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=2975EA&textColor=fff)&nbsp;
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: ["Javascript", "Typescript", "HTML", "CSS", "PHP", "AJAX", "Jquery", "ASP.Net", "Git" ],
+   technologies: {
+      frontEnd: {
+         js: ["React Js"],
+         css: ["Bootstrap", "Ion-Icon"]
+      },
+      databases: ["mySQL", "SQLServer"],
+   },
+   tools: ["VsCode", "Figma", "Photoshop", "Ilustrator", "Office", "Github"],
+   currentOccupation: ["last year student, open for job opportunities"],
+};
+```
 
 
 <div align="center">
