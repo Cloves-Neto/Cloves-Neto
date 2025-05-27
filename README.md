@@ -14,7 +14,7 @@
 
 
  <h2  align="left">⚡️ A Few Quick Facts</h2>
-   <img width="40%" align="right" src="https://streak-stats.demolab.com?user=Cloves-Neto&locale=pt-br&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+<!--    <img width="40%" align="right" src="https://streak-stats.demolab.com?user=Cloves-Neto&locale=pt-br&mode=weekly&theme=midnight-purple&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  /> -->
     <ul align="left">
       <li>🔭 I’m currently working on <a href="https://www.devneto.com.br">Portifolio</a>.</li>
       <li>🧐 Learning about <strong>Software Engineering</strong>, in <a href="https://www.escoladnc.com.br/profissoes-tecnologia/engenheiro-de-software">DNC School</a>.</li>
@@ -85,23 +85,6 @@
   
   <a href="https://github.com/cloves-neto"><img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=cloves-neto&show_icons=true&include_all_commits=true&theme=midnight-purple&hide_border=true" alt="Cloves github stats" /></a> <a href="https://github.com/cloves-neto"><img align="center" width="300px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloves-neto&layout=compact&theme=midnight-purple&hide_border=true" /></a> 
   
-</div>
-
-###
-
-<div align="left">
-<!--   <a href="'>
-     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a> -->
-  <a href="">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a> 
-  <a href="">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="">
-     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>   
 </div>
 
 ###
