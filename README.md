@@ -47,13 +47,9 @@
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
     <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-    <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
     <img width="12" />
@@ -66,10 +62,6 @@
   <img src="https://cdn.simpleicons.org/docker" height="30" alt="docker logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-    <img width="12" />
-  <img src="https://skillicons.dev/icons?i=photoshop" height="30" alt="photoshop logo"  />
     <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="photoshop logo"  />
     <img width="12" />
@@ -90,7 +82,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/cloves-neto/output/snake.svg" alt="Snake animation" />
 
 ###
 
