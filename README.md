@@ -78,12 +78,4 @@
   
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/cloves-neto/output/snake.svg" alt="Snake animation" />
-
-###
-
 
