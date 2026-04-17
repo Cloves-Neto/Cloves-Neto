@@ -1,7 +1,5 @@
 ![banner top](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Cloves+Neto....;Nice+to+meet+you!&center=false&vCenter=false&size=30&width=800&height=120&color=FFFFFF)
-
 # ⚡️ A Few Quick Facts
 
 🔭 Atualmente trabalhando no **[Portifolio](https://www.devneto.com.br)**<br>
