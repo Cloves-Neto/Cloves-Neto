@@ -1,11 +1,9 @@
 ![banner top](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-# ⚡️ A Few Quick Facts
+# ⚡️ Parcerias e contato
 
-🔭 Atualmente trabalhando no **[Portifolio](https://www.devneto.com.br)**<br>
-🧐 Estudando **Software Engineering** na **[DNC School](https://www.escoladnc.com.br)**<br>
-👨💻 Projetos disponíveis no **[Github](https://github.com/cloves-neto)**<br>
-💡 Freelancer disponível em: **[Devneto Website](https://devneto.com.br)** |
+🔭 Acesse meu site para acompanhar minha trajetória ou solicitar um serviço: <br>
+**[Portifolio](https://www.devneto.com.br)**<br>
 
 # 🎯 Objetivo Profissional
 
@@ -59,9 +57,9 @@ Ferramentas que utilizo no meu dia a dia
 **Colégio São Francisco** _Full-Stack Developer_ (2025)<br>
 • Migração de sistemas legados para **Next.js + Astro** e otimização de SEO (35% → 92%). |<br>
 
-| ## 📫 Conecte-se comigo
+## 📫 Conecte-se comigo
 
-[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat)](https://www.linkedin.com/in/cloves-neto/) [![Instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=EC42A8&logoColor=white&style=flat)](https://www.instagram.com/_devneto/) ![Profile Views](https://komarev.com/ghpvc/?username=cloves-neto&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) |
+[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat)](https://www.linkedin.com/in/cloves-neto/) ![Profile Views](https://komarev.com/ghpvc/?username=cloves-neto&color=blueviolet&style=flat-square&label=PROFILE+VIEWS) |
 
 <br>
 
