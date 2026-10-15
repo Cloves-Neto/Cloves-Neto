@@ -126,11 +126,11 @@ Construo soluções *end-to-end*, integro APIs e otimizo processos com foco em *
 
 <p align="center">
   
-  <img width="440" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloves-Neto&locale=pt-br&layout=compact&langs_count=8&card_width=440&hide_border=true&border_radius=12&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd" alt="Linguagens mais usadas" />
+  <img width="550" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloves-Neto&locale=pt-br&layout=compact&langs_count=8&card_width=440&hide_border=true&border_radius=12&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img width="440" height="195" src="https://streak-stats.demolab.com?user=Cloves-Neto&locale=pt-br&mode=weekly&card_width=884&card_height=195&hide_border=true&border_radius=12&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b8bb5&stroke=302b63&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de sequência de contribuições" />
+  <img width="550" height="195" src="https://streak-stats.demolab.com?user=Cloves-Neto&locale=pt-br&mode=weekly&card_width=884&card_height=195&hide_border=true&border_radius=12&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=c4b5fd&dates=8b8bb5&stroke=302b63&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de sequência de contribuições" />
 </p>
 
 <h3 align="center">🐍 A cobrinha das contribuições</h3>
